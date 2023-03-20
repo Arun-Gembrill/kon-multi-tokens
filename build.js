@@ -30,19 +30,22 @@ function getStyleDictionaryConfig(theme) {
       `tokens/${theme}.json`,
     ],
     "platforms": {
-      "web": {
-        "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "size/rem color/css"],
+      "scss": {
+        "transformGroup": "scss",
         "buildPath": `output/`,
         "files": [{
             "destination": `${theme}.scss`,
             "format": "scss/variables",
-            "selector": `.${theme}-theme`
+            "selector": `.${theme}-theme`,
+            "options": {
+              // Look here 👇
+              "outputReferences": true
+            }
           }]
       }
     }
   };
 }
-
 
 console.log('Build started...');
 
