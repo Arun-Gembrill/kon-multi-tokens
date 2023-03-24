@@ -61,6 +61,10 @@
         "value": "#155eef",
         "type": "color"
       },
+      "hover": {
+        "value": "#2970ff",
+        "type": "color"
+      },
       "on-accent": {
         "value": "#ffffff",
         "type": "color"
@@ -147,6 +151,10 @@
         "type": "color",
         "description": "One degree ligher then subtle. Usually for component's surface, like alerts or items that need to contrast with the brand-persian-blue and brand-persian-blue-dark."
       },
+      "subtle-3x": {
+        "value": "#28173d",
+        "type": "color"
+      },
       "muted": {
         "value": "#a4bcfd",
         "type": "color"
@@ -232,7 +240,7 @@
         "type": "color"
       },
       "on-success-mono": {
-        "value": "#027a48",
+        "value": "#12b76a",
         "type": "color",
         "description": "To achieve a monochromatic look. This dark success works on sutble and subtle--2x surfaces."
       }

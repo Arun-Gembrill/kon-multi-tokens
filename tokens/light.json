@@ -60,6 +60,10 @@
         "value": "#155eef",
         "type": "color"
       },
+      "hover": {
+        "value": "#2970ff",
+        "type": "color"
+      },
       "on-accent": {
         "value": "#ffffff",
         "type": "color"
@@ -139,17 +143,20 @@
         "value": "#8098f9",
         "type": "color"
       },
-      "muted": {
-        "value": "#a4bcfd",
+      "subtle": {
+        "value": "#e0eaff",
         "type": "color"
       },
       "subtle-2x": {
         "value": "#eef4ff",
-        "type": "color",
-        "description": "One degree ligher then subtle. Usually for component's surface, like alerts or items that need to contrast with the brand-persian-blue and brand-persian-blue-dark."
+        "type": "color"
       },
-      "subtle": {
-        "value": "#e0eaff",
+      "subtle-3x": {
+        "value": "#F5F3FF",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#a4bcfd",
         "type": "color"
       },
       "emphasis": {
