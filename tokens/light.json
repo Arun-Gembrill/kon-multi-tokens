@@ -125,12 +125,20 @@
         "value": "#fef0c7",
         "type": "color"
       },
+      "subtle-2x": {
+        "value": "#fffaeb",
+        "type": "color"
+      },
       "muted": {
         "value": "#fec84b",
         "type": "color"
       },
       "emphasis": {
-        "value": "#f79009",
+        "value": "#b54708",
+        "type": "color"
+      },
+      "emphasis-2x": {
+        "value": "#93370d",
         "type": "color"
       },
       "on-warning": {
@@ -195,7 +203,11 @@
         "type": "color"
       },
       "emphasis": {
-        "value": "#f04438",
+        "value": "#b42318",
+        "type": "color"
+      },
+      "emphasis-2x": {
+        "value": "#912018",
         "type": "color"
       },
       "hover": {
