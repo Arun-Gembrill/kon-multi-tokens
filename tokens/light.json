@@ -163,9 +163,10 @@
         "value": "#4e4efb",
         "type": "color"
       },
-      "emphasis-secondary": {
-        "value": "#155eef",
-        "type": "color"
+      "emphasis-2x": {
+        "value": "#2d31a6",
+        "type": "color",
+        "description": "Since emphasis is a strong color, the 2x should be stronger then its predecessor."
       },
       "emphasis-hover": {
         "value": "#5b45e0",
