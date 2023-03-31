@@ -178,7 +178,7 @@
     },
     "error": {
       "default": {
-        "value": "#d92d20",
+        "value": "#f97066",
         "type": "color"
       },
       "subtle": {
